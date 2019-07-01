@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+type Props = {
+  ${1:prop}: ${2:Type}
+}
+]]></content>
+  <tabTrigger>rnprop</tabTrigger>
+  <scope>source.js,source.jsx</scope>
+  <description>Flow Proptype declaration</description>
+</snippet>

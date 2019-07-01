@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[{{ csrf_field() }}
+]]></content>
+ <tabTrigger>csrf</tabTrigger>
+</snippet>

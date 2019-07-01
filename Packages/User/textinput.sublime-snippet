@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<div class="form-group">
+     <label for="name">:</label>
+    <input type="text" class="form-control" id="name" name="name">
+</div>]]></content>
+    <tabTrigger>textinput</tabTrigger>
+</snippet>

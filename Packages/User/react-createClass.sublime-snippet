@@ -1,0 +1,23 @@
+<snippet>
+  <content><![CDATA[
+import React, { Component } from 'react'
+import { StyleSheet } from 'react-native'
+class ${1:${TM_FILENAME/(.+)\..+|.*/$1/:MyComponent}} extends Component {
+  render() {
+    return (
+      ${2:<View />}
+    )
+  }
+}
+
+const styles = StyleSheet.create({
+
+})
+
+
+export default ${1:${TM_FILENAME/(.+)\..+|.*/$1/:MyComponent}}
+]]></content>
+  <tabTrigger>rncc</tabTrigger>
+  <scope>source.js,source.jsx</scope>
+  <description>Create react-native Class</description>
+</snippet>

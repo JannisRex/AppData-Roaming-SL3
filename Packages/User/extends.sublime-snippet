@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+@extends ('layouts.master')
+
+@section ('content')
+
+@endsection
+]]></content>
+    <tabTrigger>extends</tabTrigger>
+</snippet>

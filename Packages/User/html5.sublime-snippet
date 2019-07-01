@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[<!DOCTYPE HTML>
+<html lang="{{ app()->getLocale() }}">
+    <head>
+        <meta charset="UTF-8">
+        <title>$1</title>
+    </head>
+    <body>
+        $2
+    </body>
+</html>]]></content>
+<tabTrigger>html5</tabTrigger>
+</snippet>

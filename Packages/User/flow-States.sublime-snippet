@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+type State = {
+  ${1:state}: ${2:Type}
+}
+]]></content>
+  <tabTrigger>rnstate</tabTrigger>
+  <scope>source.js,source.jsx</scope>
+  <description>Flow Statetype declaration</description>
+</snippet>

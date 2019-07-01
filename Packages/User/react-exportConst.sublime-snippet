@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+import React from 'react'
+
+const ${1:${TM_FILENAME/(.+)\..+|.*/$1/:MyComponent}} = () => (
+  ${0:<View />}
+)
+
+export default ${1:${TM_FILENAME/(.+)\..+|.*/$1/:MyComponent}}
+
+]]></content>
+    <tabTrigger>rnex</tabTrigger>
+    <description>Create exportable const</description>
+    <scope>source.js,source.jsx</scope>
+</snippet>

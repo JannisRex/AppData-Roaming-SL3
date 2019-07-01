@@ -1,0 +1,14 @@
+// Settings in here override those in "ESLint Fix/eslint-fix.sublime-settings",
+
+{
+    "paths": {
+        "windows": "C:/Program Files/nodejs/node.exe"
+    },
+    "eslint_path": {
+        "windows": "%APPDATA%/npm/node_modules/eslint/bin/eslint"
+  },
+
+    "config_path": {
+        "windows": "C:/Users/jarex/.eslintrc.js"
+    },
+}

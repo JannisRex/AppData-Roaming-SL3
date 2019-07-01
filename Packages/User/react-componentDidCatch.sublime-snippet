@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+  componentDidCatch(error, errorInfo) {
+    this.setState({
+      error: error,
+      errorInfo: errorInfo
+    })
+  }
+]]></content>
+    <tabTrigger>cdc</tabTrigger>
+    <scope>source.js, source.jsx</scope>
+</snippet>
