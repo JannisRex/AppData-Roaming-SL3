@@ -6,6 +6,6 @@
 />
 ${4}]]></content>
   <tabTrigger>rnActivityIndicatorIOS</tabTrigger>
-  <scope>source.js,source.jsx</scope>
+  <scope>source.tsx,source.js,source.tsx,source.jsx</scope>
   <description>ActivityIndicatorIOS</description>
 </snippet>

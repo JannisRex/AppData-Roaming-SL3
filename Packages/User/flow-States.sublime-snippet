@@ -5,6 +5,6 @@ type State = {
 }
 ]]></content>
   <tabTrigger>rnstate</tabTrigger>
-  <scope>source.js,source.jsx</scope>
+  <scope>source.tsx,source.js,source.tsx,source.jsx</scope>
   <description>Flow Statetype declaration</description>
 </snippet>

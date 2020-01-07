@@ -5,6 +5,6 @@ type Props = {
 }
 ]]></content>
   <tabTrigger>rnprop</tabTrigger>
-  <scope>source.js,source.jsx</scope>
+  <scope>source.tsx,source.js,source.tsx,source.jsx</scope>
   <description>Flow Proptype declaration</description>
 </snippet>

@@ -8,7 +8,7 @@
 		},
 		{
 			"characters": ".",
-			"selector": "source.js"
+			"selector": "source.tsx,source.js"
 		}
 	],
 	"bold_folder_labels": true,

@@ -29,6 +29,8 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
-		"SublimeLinter-pyflakes"
+		"SublimeLinter-pyflakes",
+		"TypeScript",
+		"TypeScript Syntax"
 	]
 }
