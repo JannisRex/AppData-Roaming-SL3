@@ -2,7 +2,10 @@
 	"extensions":
 	[
 		"js",
+<<<<<<< HEAD
 		".babelrc",
+=======
+>>>>>>> 25f12c8d93d4d051f0c6ee2ff419a37bb7562b84
 		"tsx",
 		"ts"
 	],

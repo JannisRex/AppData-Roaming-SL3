@@ -8,6 +8,6 @@
 />
 ]]></content>
   <tabTrigger>rnNavigator</tabTrigger>
-  <scope>source.js,source.jsx</scope>
+  <scope>source.tsx,source.js,source.tsx,source.jsx</scope>
   <description>Navigator</description>
 </snippet>

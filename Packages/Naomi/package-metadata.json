@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 {"url": "https://github.com/borela/naomi", "platforms": ["*"], "version": "4.3.2", "dependencies": [], "sublime_text": ">=3092", "description": "Sublime Text enhanced syntax highlighting for JavaScript ES6/ES7/ES2015/ES2016/ES2017+, Babel, FlowType, React JSX, Styled Components, HTML5, SCSS3, PHP 7, phpDoc, PHPUnit, MQL4. Basic: Git config files."}
+=======
+<<<<<<< HEAD
+{"version": "4.3.2", "dependencies": [], "sublime_text": ">=3092", "url": "https://github.com/borela/naomi", "platforms": ["*"], "description": "Sublime Text enhanced syntax highlighting for JavaScript ES6/ES7/ES2015/ES2016/ES2017+, Babel, FlowType, React JSX, Styled Components, HTML5, SCSS3, PHP 7, phpDoc, PHPUnit, MQL4. Basic: Git config files."}
+=======
+{"url": "https://github.com/borela/naomi", "platforms": ["*"], "version": "4.3.2", "dependencies": [], "sublime_text": ">=3092", "description": "Sublime Text enhanced syntax highlighting for JavaScript ES6/ES7/ES2015/ES2016/ES2017+, Babel, FlowType, React JSX, Styled Components, HTML5, SCSS3, PHP 7, phpDoc, PHPUnit, MQL4. Basic: Git config files."}
+>>>>>>> db12c040cf0bcfd355f55bd2dad4a974e1ede933
+>>>>>>> 25f12c8d93d4d051f0c6ee2ff419a37bb7562b84

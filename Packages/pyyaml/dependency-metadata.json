@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 {"platforms": ["*"], "url": "https://github.com/packagecontrol/pyyaml/issues", "version": "5.1.1", "sublime_text": "*", "description": "Python PyYAML module"}
+=======
+<<<<<<< HEAD
+{"version": "5.1.1", "url": "https://github.com/packagecontrol/pyyaml/issues", "platforms": ["*"], "description": "Python PyYAML module", "sublime_text": "*"}
+=======
+{"platforms": ["*"], "url": "https://github.com/packagecontrol/pyyaml/issues", "version": "5.1.1", "sublime_text": "*", "description": "Python PyYAML module"}
+>>>>>>> db12c040cf0bcfd355f55bd2dad4a974e1ede933
+>>>>>>> 25f12c8d93d4d051f0c6ee2ff419a37bb7562b84

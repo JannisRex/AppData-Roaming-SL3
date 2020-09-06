@@ -3,6 +3,6 @@
   ${2}
 </Text>]]></content>
   <tabTrigger>rnText</tabTrigger>
-  <scope>source.js,source.jsx</scope>
+  <scope>source.tsx,source.js,source.tsx,source.jsx</scope>
   <description>Text</description>
 </snippet>

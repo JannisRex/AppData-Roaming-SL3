@@ -1,4 +1,14 @@
 {
+<<<<<<< HEAD
     "etag": "\"5f553fc4-5805e\"", 
     "last-modified": "Sun, 06 Sep 2020 20:00:04 GMT"
+=======
+<<<<<<< HEAD
+    "etag": "\"5e142a1b-54b4c\"", 
+    "last-modified": "Tue, 07 Jan 2020 06:50:03 GMT"
+=======
+    "last-modified": "Tue, 23 Jul 2019 11:20:04 GMT", 
+    "etag": "\"5d36ed64-533e2\""
+>>>>>>> db12c040cf0bcfd355f55bd2dad4a974e1ede933
+>>>>>>> 25f12c8d93d4d051f0c6ee2ff419a37bb7562b84
 }

@@ -2,7 +2,7 @@
     <content><![CDATA[
 import EStyleSheet from 'react-native-extended-stylesheet';
 
-const styles = EStyleSheet.create({ 
+const styles = EStyleSheet.create({
 ${1:}
 });
 
@@ -10,5 +10,5 @@ export default styles;
 
 ]]></content>
     <tabTrigger>rnes</tabTrigger>
-    <scope>source.js,source.jsx</scope>
+    <scope>source.tsx,source.js,source.tsx,source.jsx</scope>
 </snippet>

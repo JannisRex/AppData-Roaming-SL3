@@ -1,0 +1,8 @@
+// Settings in here override those in "ESLint-Formatter/ESLint-Formatter.sublime-settings",
+
+{
+      // The location of the globally installed eslint package to use as a fallback
+  "eslint_path": {
+    "windows": "%APPDATA%/Roaming/npm/node_modules/eslint",
+  }
+}
