@@ -1,7 +1,10 @@
 {
-    "tab_size": 2,
 	"extensions":
 	[
-		"js"
-	]
+		"js",
+		".babelrc",
+		"tsx",
+		"ts"
+	],
+	"tab_size": 2
 }

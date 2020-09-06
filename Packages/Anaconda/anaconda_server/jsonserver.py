@@ -177,10 +177,10 @@ class JSONServer(asyncore.dispatcher):
         self.handle_close()
 
     def handle_accept(self):
-        """Called when we accept and incomming connection
+        """Called when we accept and incoming connection
         """
         sock, addr = self.accept()
-        self.logger.info('Incomming connection from {0}'.format(
+        self.logger.info('Incoming connection from {0}'.format(
             repr(addr) or 'unix socket')
         )
         self.handler(sock, self)
@@ -339,6 +339,7 @@ if __name__ == "__main__":
     logger = get_logger(log_directory)
 
     try:
+        server = None
         if not LINUX:
             server = JSONServer(('localhost', port))
         else:
@@ -362,7 +363,8 @@ if __name__ == "__main__":
     except Exception as error:
         log_traceback()
         logger.error(str(error))
-        server.shutdown()
+        if server is not None:
+            server.shutdown()
         sys.exit(-1)
 
     server.logger = logger
